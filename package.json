@@ -2,6 +2,7 @@
   "name": "shuttle",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://glittery-capybara-c46d6a.netlify.app/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
